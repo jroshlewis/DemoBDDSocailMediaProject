@@ -6,8 +6,8 @@ Given /^The user is on the Home page on Facebook$/ do
 end
 
 When /^User enters invalid username and password$/ do
-      $driver.find_element(:id,'email').send_key("awtrt@mail.com")
-      $driver.find_element(:id,'pass').send_key("adwrewtff123")
+      $driver.find_element(:id,'email').send_key("awqeet@mail.com")
+      $driver.find_element(:id,'pass').send_key("a123")
 end
 
 When /^Clicks on login in button$/ do
