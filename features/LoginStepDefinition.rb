@@ -11,7 +11,7 @@ When /^User enters invalid username and password$/ do
 end
 
 When /^Clicks on login in button$/ do
-      $driver.find_element(:xpath,"//input[@type='submit'|| @id='u_0_2']").click
+      $driver.find_element(:xpath,"//input[@type='submit']").click
 end
 
 Then /^Error message should be displayed to the user$/ do
