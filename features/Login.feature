@@ -16,11 +16,9 @@ Feature: Login functionality with Facebook website
           Then Error message saying invalid email_id should be displayed
 
             Examples: |firstname | surname | email_id | password|
-                      |;kdsjfk;  |kdnal    |sdlkfmail.com|ldjfaf|
-                      |;kree;  |kdn733    |er@.com|ldjfsddaf|
-                     |;kree;  |kdn733    |er@.com|ldjfsddaf|
-                    |;kree;  |kdn733    |er@.com|ldjfsddaf|
-
-
-
+                       |;kdsjfk;  |kdnal    |sdlkfmail.com|ldjfaf|
+                        |nxcvb     | ndcb12|nxbmail.com|  vcc22 |
+                      |nxcvb     | ndcb12|nxbmail.com|  vcc22 |
+                      |nxcvb     | ndcb12|nxbmail.com|  vcc22 |
+                      |nxcvb     | ndcb12|nxbmail.com|  vcc22 |
 
