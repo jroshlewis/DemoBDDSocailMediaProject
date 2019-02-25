@@ -18,5 +18,9 @@ Feature: Login functionality with Facebook website
             Examples: |firstname | surname | email_id | password|
                       |;kdsjfk;  |kdnal    |sdlkfmail.com|ldjfaf|
                       |;kree;  |kdn733    |er@.com|ldjfsddaf|
+                     |;kree;  |kdn733    |er@.com|ldjfsddaf|
+                    |;kree;  |kdn733    |er@.com|ldjfsddaf|
+
+
 
 
