@@ -21,4 +21,5 @@ Feature: Login functionality with Facebook website
                       |nxcvb     | ndcb12|nxbmail.com|  vcc22 |
                       |nxcvb     | ndcb12|nxbmail.com|  vcc22 |
                       |nxcvb     | ndcb12|nxbmail.com|  vcc22 |
+      # merged changes
 
