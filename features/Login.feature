@@ -18,5 +18,7 @@ Feature: Login functionality with Facebook website
             Examples: |firstname | surname | email_id | password|
                        |;kdsjfk;  |kdnal    |sdlkfmail.com|ldjfaf|
                         |nxcvb     | ndcb12|nxbmail.com|  vcc22 |
-                        |nxcvb     | ndcb12|nxbmail.com|  vcc22 |
+                      |nxcvb     | ndcb12|nxbmail.com|  vcc22 |
+                      |nxcvb     | ndcb12|nxbmail.com|  vcc22 |
+                      |nxcvb     | ndcb12|nxbmail.com|  vcc22 |
 
